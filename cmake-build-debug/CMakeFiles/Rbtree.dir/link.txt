@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/Rbtree.dir/Rbtree/rbtree_test.cpp.o CMakeFiles/Rbtree.dir/Rbtree/Rbtree.cpp.o  -o Rbtree 

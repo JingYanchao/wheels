@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jyc/mygithub/wheels/Rbtree/Rbtree.cpp
+Rbtree.h
+/home/jyc/mygithub/wheels/Rbtree/Rbtree.h
+
+/home/jyc/mygithub/wheels/Rbtree/Rbtree.h
+string.h
+-
+stdlib.h
+-
+
+/home/jyc/mygithub/wheels/Rbtree/rbtree_test.cpp
+Rbtree.h
+/home/jyc/mygithub/wheels/Rbtree/Rbtree.h
+assert.h
+-
+stdio.h
+-
+
