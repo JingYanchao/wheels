@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/List_queue.dir/List_queue/test_queue.c.o CMakeFiles/List_queue.dir/List_queue/List_queue.c.o  -o List_queue 

@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/Process_lock.dir/Process_lock/test_lock.c.o CMakeFiles/Process_lock.dir/Process_lock/Process_lock.c.o  -o Process_lock 

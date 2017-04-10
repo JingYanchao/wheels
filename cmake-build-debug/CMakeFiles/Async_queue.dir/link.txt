@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/Async_queue.dir/Async_queue/test.c.o CMakeFiles/Async_queue.dir/Async_queue/Async_queue.c.o CMakeFiles/Async_queue.dir/Async_queue/List_queue.c.o  -o Async_queue 

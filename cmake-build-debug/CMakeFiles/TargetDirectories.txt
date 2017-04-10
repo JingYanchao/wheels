@@ -1,3 +1,7 @@
 /home/jyc/mygithub/wheels/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jyc/mygithub/wheels/cmake-build-debug/CMakeFiles/Process_lock.dir
+/home/jyc/mygithub/wheels/cmake-build-debug/CMakeFiles/Async_queue.dir
+/home/jyc/mygithub/wheels/cmake-build-debug/CMakeFiles/ThreadPool.dir
+/home/jyc/mygithub/wheels/cmake-build-debug/CMakeFiles/List_queue.dir
 /home/jyc/mygithub/wheels/cmake-build-debug/CMakeFiles/rebuild_cache.dir
 /home/jyc/mygithub/wheels/cmake-build-debug/CMakeFiles/Rbtree.dir
